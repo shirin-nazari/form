@@ -1,0 +1,12 @@
+.form-main{
+    width: 600px;
+    display: inline-block;
+margin-left: 350px;
+margin-right: 250px;
+font-family:RobotoSlab-Regular;
+color: rgb(25, 48, 48);
+}
+@font-face{
+    font-family: RobotoSlab-Regular;
+    src: url('font/RobotoSlab-Regular.ttf');
+}
