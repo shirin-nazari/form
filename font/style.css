@@ -1,10 +1,15 @@
 .form-main{
+    margin-top: 50px;
+    display: block;
     width: 600px;
     display: inline-block;
 margin-left: 350px;
 margin-right: 250px;
 font-family:RobotoSlab-Regular;
 color: rgb(25, 48, 48);
+letter-spacing: 1px;
+word-spacing: 1px;
+line-height: 20px;
 }
 @font-face{
     font-family: RobotoSlab-Regular;
