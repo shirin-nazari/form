@@ -10,8 +10,10 @@ color: rgb(25, 48, 48);
 letter-spacing: 1px;
 word-spacing: 1px;
 line-height: 20px;
+font-weight: bold;
 }
 @font-face{
     font-family: RobotoSlab-Regular;
     src: url('font/RobotoSlab-Regular.ttf');
 }
+ 
