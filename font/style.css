@@ -11,8 +11,6 @@ letter-spacing: 1px;
 word-spacing: 1px;
 line-height: 20px;
 font-weight: bold;
-text-transform: capitalize;
-font-style: oblique;
 }
 @font-face{
     font-family: RobotoSlab-Regular;
